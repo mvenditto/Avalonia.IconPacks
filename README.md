@@ -41,5 +41,5 @@ The Iconpacks program loads icons at startup from the icons directory so externa
 
 ![Avalonia.IconPacks](iconpacks.png)
 
-If you find this project useful please go and star the [MahApps.Metro.IconPacks](https://github.com/MahApps/MahApps.Metro.IconPacks) project as that is where all the hard work has been done.
+If you find this project useful please go and star the [MahApps.Metro.IconPacks](https://github.com/MahApps/MahApps.Metro.IconPacks) project as that is where all the hard work has been done..
 
